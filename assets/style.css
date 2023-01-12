@@ -22,7 +22,7 @@
 
 .parallax {
   /* The image used */
-  background-image: url('/assets/img/fondo1.webp');
+  background-image: url('../assets/img/fondo1.webp');
 
   /* Full height */
   height: 100%; 
@@ -45,7 +45,7 @@
 }
 
 #perfil{
-  background-image: url('/assets/img/fondo2.webp');
+  background-image: url('../assets/img/fondo2.webp');
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -64,6 +64,10 @@ i{
 footer i:hover {
   color: #ffa500;
   transform: scale(1.3);
+}
+
+#div-totop i{
+  color: #ffa500;
 }
 
 #div-totop i:hover{
