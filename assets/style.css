@@ -22,7 +22,7 @@
 
 .parallax {
   /* The image used */
-  background-image: url('/assets/img/fondo1.jpg');
+  background-image: url('/assets/img/fondo1.webp');
 
   /* Full height */
   height: 100%; 
@@ -45,7 +45,7 @@
 }
 
 #perfil{
-  background-image: url('/assets/img/fondo2.jpg');
+  background-image: url('/assets/img/fondo2.webp');
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
