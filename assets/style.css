@@ -92,3 +92,10 @@ footer i:hover {
 #boton {
   padding: 0;
 }
+
+#barra{
+  width: 45%;
+}
+#insta{
+  border-radius: 50%;
+}
